@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreading_books=self.webpackChunkreading_books||[]).push([[222],{222:(e,s,a)=>{a.r(s),a.d(s,{default:()=>k});var n=a(579);const k=()=>(0,n.jsx)("h1",{children:"LoginPage"})}}]);
+//# sourceMappingURL=222.ca40c530.chunk.js.map
