@@ -3,6 +3,7 @@ import { HeaderStyled, Logo } from "./Header.styled";
 
 export const Header = () => {
   const { t, i18n } = useTranslation();
+  console.log(t);
 
   const changeLanguage = (lng: string) => {
     i18n.changeLanguage(lng);

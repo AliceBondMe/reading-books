@@ -1,9 +1,9 @@
+import { FC } from "react";
 import { useTranslation } from "react-i18next";
 import { Link } from "react-router-dom";
 
-const HomePage = () => {
+const HomePage: FC = () => {
   const { t } = useTranslation();
-  console.log(t);
 
   return (
     <>
