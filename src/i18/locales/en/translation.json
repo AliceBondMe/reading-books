@@ -1,0 +1,19 @@
+{
+  "homepage": {
+    "title": "Books Reading",
+    "subtitle1": "Will help you to",
+    "list1": {
+      "item1": "Create your goal faster and proceed to read",
+      "item2": "Divide process proportionally for each day",
+      "item3": "Track your success"
+    },
+    "subtitle2": "You may also",
+    "list2": {
+      "item1": "Pose your own independent point of view",
+      "item2": "Improve your professional skills according to new knowledge",
+      "item3": "Become an interesting interlocutor"
+    },
+    "link1": "Log in",
+    "link2": "Register"
+  }
+}
