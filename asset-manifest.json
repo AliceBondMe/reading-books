@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reading-books/static/css/main.520f84f8.css",
-    "main.js": "/reading-books/static/js/main.186de436.js",
-    "static/js/56.368fc01a.chunk.js": "/reading-books/static/js/56.368fc01a.chunk.js",
+    "main.js": "/reading-books/static/js/main.897b2e78.js",
+    "static/js/56.f94b31e2.chunk.js": "/reading-books/static/js/56.f94b31e2.chunk.js",
     "static/js/222.ca40c530.chunk.js": "/reading-books/static/js/222.ca40c530.chunk.js",
     "static/js/208.300636f0.chunk.js": "/reading-books/static/js/208.300636f0.chunk.js",
     "static/media/Montserrat-Bold.ttf": "/reading-books/static/media/Montserrat-Bold.50f0257aa1e905f4bfaf.ttf",
@@ -14,14 +14,15 @@
     "static/media/OpenSans-Bold.ttf": "/reading-books/static/media/OpenSans-Bold.c790f99966352c531503.ttf",
     "static/media/AbrilFatface-Regular.ttf": "/reading-books/static/media/AbrilFatface-Regular.c2459f7f69cb5eb788d8.ttf",
     "index.html": "/reading-books/index.html",
+    "static/media/getFetch.cjs": "/reading-books/static/media/getFetch.40f37ddea2378391108f.cjs",
     "main.520f84f8.css.map": "/reading-books/static/css/main.520f84f8.css.map",
-    "main.186de436.js.map": "/reading-books/static/js/main.186de436.js.map",
-    "56.368fc01a.chunk.js.map": "/reading-books/static/js/56.368fc01a.chunk.js.map",
+    "main.897b2e78.js.map": "/reading-books/static/js/main.897b2e78.js.map",
+    "56.f94b31e2.chunk.js.map": "/reading-books/static/js/56.f94b31e2.chunk.js.map",
     "222.ca40c530.chunk.js.map": "/reading-books/static/js/222.ca40c530.chunk.js.map",
     "208.300636f0.chunk.js.map": "/reading-books/static/js/208.300636f0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.520f84f8.css",
-    "static/js/main.186de436.js"
+    "static/js/main.897b2e78.js"
   ]
 }
