@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 
 const HomePage = () => {
   const { t } = useTranslation();
+  console.log(t);
 
   return (
     <>
